@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-#Hector Gonzalez Orozco
+# Hector Gonzalez Orozco
 
 ---
 
-I'm a Music composer, performer and programmer.
+I'm a Music composer, performer and programmer from Guadalajara, Mexico. Currently living in Connecticut, USA.
 
 
 
