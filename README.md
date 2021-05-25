@@ -6,11 +6,9 @@
 
 I'm a Music composer, performer and programmer from Guadalajara, Mexico. Currently living in Connecticut, USA.
 
-I'm interested in Electroacoustic music, algorithmic composition and developing musical instruments from physical controllers.
+I'm interested in Electroacoustic music, algorithmic composition and gestural controllers.
 
----
-
-## SuperCollider
+My music usually employs unique combinations of instruments and controllers, employing diverse mapping strategies for each piece.
 
 
 
