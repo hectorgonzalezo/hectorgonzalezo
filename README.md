@@ -10,7 +10,7 @@ I'm interested in Electroacoustic music, algorithmic composition and developing 
 
 ---
 
-##SuperCollider
+## SuperCollider
 
 
 
