@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @hectorgonzalezo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 # Hector Gonzalez Orozco
 
 ---
 
 I'm a Music composer, performer and programmer from Guadalajara, Mexico. Currently living in Connecticut, USA.
+
+I'm interested in Electroacoustic music, the use of gestural controllers as musical instruments and algorithmic composition.
+
+
 
 
 
