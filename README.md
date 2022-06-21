@@ -6,9 +6,9 @@
 
 I'm a Music composer, performer and programmer from Guadalajara, Mexico. Currently living in Connecticut, USA.
 
-I'm interested in Electroacoustic music, algorithmic composition and gestural controllers.
+I'm interested in interactive computer music, algorithmic composition and gestural controllers.
 
-My music usually employs unique combinations of instruments and controllers, employing diverse mapping strategies for each piece.
+My music usually employs unique combinations of instruments and controllers, using diverse mapping strategies for each piece.
 
 
 
