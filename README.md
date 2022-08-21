@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hectorgonzalezo" alt="hectorgonzalezo" /></a> </p>
 
-- 🌱 I’m currently learning **The Odin Project's Curriculum**
+- 🌱 I’m currently learning full-stack web development from **The Odin Project's Curriculum**
 
 - 📫 How to reach me **hgonzalez@wesleyan.edu**
 
-- 📄 Know about my experiences [I've been composing and performing Interactive Computer Music using SuperCollider for the past 5 years.](I've been composing and performing Interactive Computer Music using SuperCollider for the past 5 years.)
+- 📄 Know about my experiences:
+
+I've been composing and performing Interactive Computer Music using <a href="https://supercollider.github.io/">SuperCollider</a> for the past 5 years.
+Recently
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
