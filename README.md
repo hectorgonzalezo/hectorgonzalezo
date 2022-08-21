@@ -12,6 +12,7 @@
 - 📄 Know about my experiences:
 
 <p> I've been composing and performing Interactive Computer Music using <a href="https://supercollider.github.io/">SuperCollider</a> for the past 5 years.
+  
 Recently finished an MA in music. My thesis can be found <a href="https://github.com/hectorgonzalezo/thesis">here</a>. It deals with Interactive Computer Music systems and the artistic use of Machine Learning to create generative mappings for them, as well as to generate completely new timbres by interpolating between recordings of sounds using <a href="https://magenta.tensorflow.org/">Magenta.</a>
 </p>
 
