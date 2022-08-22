@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgonzalezo&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgonzalezo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hectorgonzalezo" alt="hectorgonzalezo" /></a> </p>
-
 - 🌱 I’m currently learning full-stack web development from **The Odin Project's Curriculum**
 
 - 📫 How to reach me **hgonzalez@wesleyan.edu**
