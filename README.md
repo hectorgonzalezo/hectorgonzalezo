@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgonzalezo&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgonzalezo" /> </p>
 
-- 🌱 I’m currently learning full-stack web development from **The Odin Project's Curriculum**
+- 🌱 I’m currently learning full-stack web development from **(The Odin Project)[https://www.theodinproject.com]'s Curriculum**
 
 - 📫 How to reach me **hgonzalez@wesleyan.edu**
 
