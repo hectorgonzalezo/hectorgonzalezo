@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hectorgonzalezo.github.io/](https://hectorgonzalezo.github.io/)
 
-- 💬 Ask me about **React, Node, Express, JavaScript, SuperCollider**
+- 💬 Ask me about **React, Node, Express, JavaScript, Python, SuperCollider**
 
 - 📫 How to reach me **hgonzalez@wesleyan.edu**
 
