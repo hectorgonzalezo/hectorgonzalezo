@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorgonzalezo&label=Profile%20views&color=0e75b6&style=flat" alt="hectorgonzalezo" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hectorgonzalezo.github.io/](https://www.hectorgonzalezdev.com/)
+- 👨‍💻 All of my projects are available at [https://www.hectorgonzalezdev.com](https://www.hectorgonzalezdev.com/)
 
 - 💬 Ask me about **React, Node, Express, JavaScript, Python, SuperCollider**
 
